@@ -1,0 +1,28 @@
+DISCLAIMER: This bot is experimental. It will NOT guarantee you results.
+By using this bot, you assume all responsibility and all liability.
+This bot makes no trades. It is only used to process information.
+Type 'start' to agree and continue. > start
+Let's begin!
+
+Beginning the first test...
+First test is complete. It found 27 results.
+Waiting for connection...
+Now running the second test...
+Could not find Global Currency Reserve in listing.
+Second test is complete. Results narrowed down to 6 results.
+Running the third test...
+Missing information for HTMLCOIN. Skipping.
+All tests completed. We have found 4 results.
+You may now investigate the results.
+The first result is XXX. It has a market cap of $32,434,430. Would you like to know more about it?
+yes/no > yes
+Here's some information.
+XXX is the first dual blockchain protocol technology that pairs a digital currency with a digital reserve. This means faster transactions, more security and solves the digital currency scalability puzzle.
+
+Press enter to add XXX. Type 'no' to not add it. > 
+The second result is ZZZ. It has a market cap of $22,333,144. Would you like to know more about it?
+yes/no > no
+Okay. Skipping ZZZ.
+
+All options exhausted. Closing browser...
+Your matches are ready! We suggest trading on XXX.
