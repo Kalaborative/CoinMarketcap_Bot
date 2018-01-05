@@ -1,5 +1,6 @@
 # CoinMarketcap_Bot
 Just a simple bot that analyzes trading options on Coin Marketcap.
+This bot is **purely experimental**. Success based on this script is NOT guaranteed. Please use your best judgment.
 
 ## Requirements
 This script uses Selenium to automate the process. So for the script to work you need to have the Selenium package installed.
